@@ -16,18 +16,18 @@ body {
 }
 
 .display {
-  font-size: 5rem;
+  font-size: 4rem;
   font-family: monospace;
   font-weight: bold;
   color: black;
-  text-shadow: 2px 2px 2px black;
-  margin-bottom: 25px;
+  text-shadow: 1px 1px 1px black;
+  margin-bottom: 10px;
 }
 
 .controls button {
   font-size: 1.5rem;
   font-weight: bold;
-  padding: 10px 20px;
+  padding: 5px 5px;
   margin: 5px;
   min-width: 125px;
   border: none;
